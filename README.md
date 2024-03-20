@@ -10,8 +10,7 @@
 
 ## Выполнение
 
-![Network topology](https://github.com/KasperWPS/lesson322ospf/blob/main/topology21.svg)
-
+![Network topology](https://github.com/KasperWPS/lesson32ospf/blob/main/topology21.svg)
 config.json (конфигурация стенда)
 ```json
 [
